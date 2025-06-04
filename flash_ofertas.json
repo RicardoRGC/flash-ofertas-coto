@@ -1,0 +1,16 @@
+[
+  {
+    "uid": "001",
+    "updateDate": "2025-06-03T12:00:00.000Z",
+    "titleText": "Oferta: Vacío",
+    "mainText": "Vacío de res a $799/kg en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar/sitios/cdigi/producto/vacio"
+  },
+  {
+    "uid": "002",
+    "updateDate": "2025-06-03T12:00:00.000Z",
+    "titleText": "Oferta: Bife de Chorizo",
+    "mainText": "Bife de Chorizo a $899/kg en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar/sitios/cdigi/producto/bife-chorizo"
+  }
+]
