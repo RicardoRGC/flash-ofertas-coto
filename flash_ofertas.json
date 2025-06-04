@@ -1,56 +1,7 @@
 [
   {
-    "uid": "Marucha",
-    "updateDate": "2025-06-04T23:28:20.887Z",
-    "titleText": "Oferta: Marucha",
-    "mainText": "Marucha",
-    "redirectionUrl": "https://www.cotodigital.com.ar"
-  },
-  {
-    "uid": "Peceto Feteado",
-    "updateDate": "2025-06-04T23:28:20.916Z",
-    "titleText": "Oferta: Peceto Feteado",
-    "mainText": "Peceto Feteado",
-    "redirectionUrl": "https://www.cotodigital.com.ar"
-  },
-  {
-    "uid": "Morcilla Atada PALADINI",
-    "updateDate": "2025-06-04T23:28:20.944Z",
-    "titleText": "Oferta: Morcilla Atada PALADINI",
-    "mainText": "Morcilla Atada PALADINI",
-    "redirectionUrl": "https://www.cotodigital.com.ar"
-  },
-  {
-    "uid": "Morcilla Rosca PALADINI",
-    "updateDate": "2025-06-04T23:28:20.975Z",
-    "titleText": "Oferta: Morcilla Rosca PALADINI",
-    "mainText": "Morcilla Rosca PALADINI",
-    "redirectionUrl": "https://www.cotodigital.com.ar"
-  },
-  {
-    "uid": "Chorizo De Cerdo PALADINI",
-    "updateDate": "2025-06-04T23:28:21.003Z",
-    "titleText": "Oferta: Chorizo De Cerdo PALADINI",
-    "mainText": "Chorizo De Cerdo PALADINI",
-    "redirectionUrl": "https://www.cotodigital.com.ar"
-  },
-  {
-    "uid": "Churrasquito De Cerdo",
-    "updateDate": "2025-06-04T23:28:21.031Z",
-    "titleText": "Oferta: Churrasquito De Cerdo",
-    "mainText": "Churrasquito De Cerdo",
-    "redirectionUrl": "https://www.cotodigital.com.ar"
-  },
-  {
-    "uid": "Peceto Estancias Coto",
-    "updateDate": "2025-06-04T23:28:21.058Z",
-    "titleText": "Oferta: Peceto Estancias Coto",
-    "mainText": "Peceto Estancias Coto",
-    "redirectionUrl": "https://www.cotodigital.com.ar"
-  },
-  {
-    "uid": "Chorizo Fresco PALADINI",
-    "updateDate": "2025-06-04T23:28:21.101Z",
+    "uid": "Marucha, Peceto Feteado, Morcilla Atada PALADINI, Morcilla Rosca PALADINI, Chorizo De Cerdo PALADINI, Churrasquito De Cerdo, Peceto Estancias Coto, Chorizo Fresco PALADINI",
+    "updateDate": "2025-06-04T23:53:01.224Z",
     "titleText": "Oferta: Chorizo Fresco PALADINI",
     "mainText": "Chorizo Fresco PALADINI",
     "redirectionUrl": "https://www.cotodigital.com.ar"
