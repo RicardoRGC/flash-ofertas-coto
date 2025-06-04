@@ -1,16 +1,58 @@
 [
   {
-    "uid": "001",
-    "updateDate": "2025-06-03T12:00:00.000Z",
-    "titleText": "Oferta: Vacío",
-    "mainText": "Vacío de res a $799/kg en Coto",
-    "redirectionUrl": "https://www.cotodigital.com.ar/sitios/cdigi/producto/vacio"
+    "uid": "Marucha X KG",
+    "updateDate": "2025-06-04T23:08:21.274Z",
+    "titleText": "Oferta: Marucha X KG",
+    "mainText": "Marucha X KG a $7.999,90 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
   },
   {
-    "uid": "002",
-    "updateDate": "2025-06-03T12:00:00.000Z",
-    "titleText": "Oferta: Bife de Chorizo",
-    "mainText": "Bife de Chorizo a $899/kg en Coto",
-    "redirectionUrl": "https://www.cotodigital.com.ar/sitios/cdigi/producto/bife-chorizo"
+    "uid": "Peceto Feteado X KG",
+    "updateDate": "2025-06-04T23:08:21.301Z",
+    "titleText": "Oferta: Peceto Feteado X KG",
+    "mainText": "Peceto Feteado X KG a $11.499,90 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
+  },
+  {
+    "uid": "Morcilla Atada PALADINI Xkg",
+    "updateDate": "2025-06-04T23:08:21.328Z",
+    "titleText": "Oferta: Morcilla Atada PALADINI Xkg",
+    "mainText": "Morcilla Atada PALADINI Xkg a $8.649,00 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
+  },
+  {
+    "uid": "Morcilla Rosca PALADINI Xkg",
+    "updateDate": "2025-06-04T23:08:21.356Z",
+    "titleText": "Oferta: Morcilla Rosca PALADINI Xkg",
+    "mainText": "Morcilla Rosca PALADINI Xkg a $8.239,00 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
+  },
+  {
+    "uid": "Chorizo De Cerdo PALADINI X Kg",
+    "updateDate": "2025-06-04T23:08:21.383Z",
+    "titleText": "Oferta: Chorizo De Cerdo PALADINI X Kg",
+    "mainText": "Chorizo De Cerdo PALADINI X Kg a $13.599,00 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
+  },
+  {
+    "uid": "Churrasquito De Cerdo X KG",
+    "updateDate": "2025-06-04T23:08:21.412Z",
+    "titleText": "Oferta: Churrasquito De Cerdo X KG",
+    "mainText": "Churrasquito De Cerdo X KG a $8.499,90 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
+  },
+  {
+    "uid": "Peceto Estancias Coto X KG",
+    "updateDate": "2025-06-04T23:08:21.440Z",
+    "titleText": "Oferta: Peceto Estancias Coto X KG",
+    "mainText": "Peceto Estancias Coto X KG a $11.499,90 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
+  },
+  {
+    "uid": "Chorizo Fresco PALADINI Xkg",
+    "updateDate": "2025-06-04T23:08:21.467Z",
+    "titleText": "Oferta: Chorizo Fresco PALADINI Xkg",
+    "mainText": "Chorizo Fresco PALADINI Xkg a $11.799,00 en Coto",
+    "redirectionUrl": "https://www.cotodigital.com.ar"
   }
 ]
