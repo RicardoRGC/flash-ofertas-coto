@@ -328,7 +328,7 @@ else:
 
     # —————————— Aquí llamamos a auto_push.py ——————————
     try:
-        from auto_push import auto_push
+        from autopush import auto_push
 
         # Ruta a tu repositorio local (donde está el .git y donde se guardan los JSON)
         repo_folder = r"C:\Users\PC\Desktop\asistente jarvis\proyectoCoto\flash-ofertas-coto"
